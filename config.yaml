@@ -1,0 +1,17 @@
+server:
+  host: "127.0.0.1"
+  port: "8080"
+
+database:
+  user: "root"
+  password: ""
+  host: "127.0.0.1"
+  port: "3306"
+  name: "forum"
+
+redis:
+  host: "127.0.0.1"
+  user: ""
+  port: "6379"
+  password: ""
+  name: "0"
